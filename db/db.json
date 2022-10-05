@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag5",
+      "name": "Vaso de StarWar",
+      "category": "Star Wars",
+      "price": "60",
+      "url": "assets/img/productos/starwar_glass1.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "name": "Dark Vader Lego",
+      "category": "Star Wars",
+      "url": "assets/img/productos/dark_vader-lego.png",
+      "price": "220",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!",
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag4"
+    },
+    {
+      "name": "Baby Yoda",
+      "category": "Star Wars",
+      "url": "assets/img/productos/baby_yoda.png",
+      "price": "90",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!",
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag2"
+    },
+    {
+      "name": "Master Yoda",
+      "category": "Star Wars",
+      "url": "assets/img/productos/master_yoda.png",
+      "price": "50",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!",
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag3"
+    },
+    {
+      "name": "Stormtrooper",
+      "category": "Star Wars",
+      "url": "assets/img/productos/soldier.png",
+      "price": "340",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!",
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag1"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag6",
+      "name": "Dark Vader",
+      "category": "Star Wars",
+      "price": " 120",
+      "url": "assets/img/productos/dark_bader.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac1",
+      "name": "Control Xbox ",
+      "category": "Consolas",
+      "price": "  60",
+      "url": "assets/img/productos/consolas/control1.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac2",
+      "name": "Ps5 + Control",
+      "category": "Consolas",
+      "price": " 1000",
+      "url": "assets/img/productos/consolas/ps5_blue.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac3",
+      "name": "Xbox X Series",
+      "category": "Consolas",
+      "price": " 700",
+      "url": "assets/img/productos/consolas/xbox.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac4",
+      "name": "Controles N. Switch",
+      "category": "Consolas",
+      "price": "  30",
+      "url": "assets/img/productos/consolas/control_nintendo-switch.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac5",
+      "name": "Nintendo",
+      "category": "Consolas",
+      "price": " 200",
+      "url": "assets/img/productos/consolas/nintendo1.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa1",
+      "name": "Traje de pikashu",
+      "category": "Diversos",
+      "price": " 120",
+      "url": "assets/img/productos/diversos/traje%20pikashu.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa2",
+      "name": "Oculus",
+      "category": "Diversos",
+      "price": " 700",
+      "url": "assets/img/productos/diversos/control%20y%20consola2.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa3",
+      "name": "Radio",
+      "category": "Diversos",
+      "price": " 20",
+      "url": "assets/img/productos/diversos/radio.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa4",
+      "name": "Muñeco de Sony",
+      "category": "Diversos",
+      "price": " 40",
+      "url": "assets/img/productos/diversos/sony.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa5",
+      "name": "Camisa SNES",
+      "category": "Diversos",
+      "price": " 60",
+      "url": "assets/img/productos/diversos/tshirt_nintendo.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa6",
+      "name": "Camisa Atani",
+      "category": "Diversos",
+      "price": " 60",
+      "url": "assets/img/productos/diversos/tshirt1.png",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    },
+    {
+      "name": "Game Boy",
+      "category": "Consolas",
+      "url": "assets/img/productos/consolas/game boy.png",
+      "price": "400",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!",
+      "id": "6f0513c9-96a6-499e-afc8-52bd20021bc0"
+    }
+  ]
+}

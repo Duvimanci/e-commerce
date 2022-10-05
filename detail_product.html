@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@600;700&family=Inter:wght@100;200;300;700;800;900&family=Raleway:wght@100;300;400;500;600;700&family=Varela+Round&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-windth initial-scale=1.0">
+    <title>Alura-Geek</title>
+    <link href="./assets/css/normalize.css" rel="stylesheet" />
+    <link href="./assets/css/reset.css" rel="stylesheet" />
+    <link href="assets/css/variables.css" rel="stylesheet" />
+    <link href="assets/css/header.css" rel="stylesheet">
+    <link href="assets/css/banner.css" rel="stylesheet">
+    <link href="assets/css/products.css" rel="stylesheet">
+    <link href="assets/css/footer.css" rel="stylesheet">
+    <link href="assets/css/product__details.css" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap" rel="stylesheet">
+
+
+</head>
+
+<script>
+    function imgErrorHTML(image) {
+        image.src = '../Img/default-img.png';
+    }
+</script>
+
+<body>
+    <header class="header__container">
+        <div class="header__items">
+            <a class="header__logoHome" href = "./index.html">
+                <img class="header__logoHome-image" src = "assets/Img/logo.svg" alt = "logo">
+            </a>
+            <div class="header__search">
+                <input class="header__search-input" id="search__items" type = "text" placeholder="Buscar">
+                <button class="header__search-button"><img class="header__search-icon" src ="assets/Img/header/search.svg" alt = ""></button>
+            </div>
+        </div>
+
+        <a class="header__login" href="assets/pages/login.html">
+            <button class="header__login-button">Login</button>
+        </a>
+    </header>
+    <main>
+        
+        <section class="container">
+            <div class="product">
+                <img src="./assets/Img/default-img.png" alt="consolas" onerror="imgErrorHTML(this)">
+                <div class="product__detail-container">
+                    <p class="product__category">Categoría: StarWars</p>
+                    <h2 class="product__name">Producto xyz</h2>
+                    <p class="product__price">$ 2.499</p>
+                    <p>Descripción del producto:</p>
+                    <p class="product__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam soluta sint blanditiis iusto libero autem corporis voluptates odit nisi esse aperiam excepturi, dicta quisquam dignissimos ab commodi corrupti nulla quidem dolorum unde, obcaecati ullam explicabo facilis. Maiores reiciendis amet quo pariatur quibusdam inventore minus molestias? Dolores quibusdam magnam delectus cupiditate?</p><br><br>
+                    <a class="product__shop" href="./index.html">Tienda <i class="fa-solid fa-store"></i></a>
+                    
+                </div>
+        </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <section class="contacto__container">
+               <div class="contacto__logo">
+                   <a href = "#">
+                       <img class="contacto__logoFooter" src = "assets/Img/logo.svg" alt = "logo">
+                   </a>
+               </div>
+               <div class="contacto__info">
+                   <ul>
+                       <li class="contacto__info-li"><a class="contacto__info-text" href = "#">Quienes somos</a></li>
+                       <li class="contacto__info-li"><a class="contacto__info-text" href = "#">Política de privacidad</a></li>
+                       <li class="contacto__info-li"><a class="contacto__info-text" href = "#">Programa de fidelidad</a></li>
+                       <li class="contacto__info-li"><a class="contacto__info-text" href = "#">Nuestras Tiendas</a></li>
+                       <li class="contacto__info-li"><a class="contacto__info-text" href = "#">Quiero ser franquiciado</a></li>
+                       <li class="contacto__info-li"><a class="contacto__info-text" href = "#">Anúncie aquí</a></li>
+                   </ul>
+               </div>
+               <form class="contacto__contactar">
+                   <h2 class="contacto__contactar-title">Hable con nosotros</h2>
+
+                   <label class="contacto__contactar-nombre contacto__textBox">
+                        Nombre
+                       <input class="contacto__contactar-nombreInput form-input" type = "text" name="nombre" placeholder="Juan Perez" required>
+                       <span class="input-message-error">Este campo no es válido</span>
+                    </label>
+
+                   <label class="contacto__mensaje contacto__textBox">
+                       Escribe tu mensaje
+                       <textarea class="contacto__mensaje-text form-input" required></textarea>
+                       <span class="input-message-error">Este campo no es válido</span>
+                    </label>
+
+                   <a href = "#" rel="">
+                       <button class="contacto__button" type="submit" id="submit">Enviar mensaje</button>
+                   </a>
+
+               </form>
+        </section>
+        <div class="info__dev">
+            <p class="info__dev-text">Realizado por Juan Jose Dujmovic M. - 2022 </p>
+        </div>
+    </footer>
+
+    <script src="./assets/js/form.js"></script>
+    <script src="./assets/controllers/detailProduct.js" type="module"></script>
+</body>
+</html>
+
